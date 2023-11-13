@@ -1,0 +1,8 @@
+[submodule "BattleMathServer"]
+	path = BattleMathServer
+	url = git@github.com:sorbrex/BattleMathServer.git
+	branch = main
+[submodule "BattleMathUI"]
+	path = BattleMathUI
+	url = git@github.com:sorbrex/BattleMathUI.git
+	branch = main
